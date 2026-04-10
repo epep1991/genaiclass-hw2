@@ -40,4 +40,4 @@ Output is saved to outputs_TIMESTAMP.md in the same folder.
 
 ## Video Walkthrough
 
-[Add YouTube link here after recording]
+[[Add YouTube link here after recording]](https://youtu.be/NxF8X6CVrFQ)
